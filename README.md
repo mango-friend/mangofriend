@@ -1,0 +1,2 @@
+# mangofriend
+GitHub Pages
